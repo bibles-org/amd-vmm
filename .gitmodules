@@ -1,0 +1,3 @@
+[submodule "vendor/crosswdk"]
+	path = vendor/crosswdk
+	url = https://github.com/bibles-org/crosswdk.git
